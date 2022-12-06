@@ -37,6 +37,7 @@ header figure {
   position: absolute;
   left: 10%;
   width: 70.47% ;
+  z-index: 1;
 }
 
 header figure img {

@@ -1,0 +1,14 @@
+main {
+  display: flex;
+  flex-direction: column;
+
+  background-image: url(../../assets/sta_uo_robot.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: #FFFFFF;
+
+  height: 63.5vw;
+  max-height: 835px;
+
+  margin-top: -0.5%;
+}
